@@ -1,22 +1,22 @@
 request-tools
 ============
 #### request-tools allows you to make http requests client-side easily  
-### [Unminified - Has no compression](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.js)  
-### [Minified - Maximum compression](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.min.js)  
+### [Unminified - Has no compression](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.js)  
+### [Minified - Maximum compression](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.min.js)  
   
 **If you want to remotely call it, use the following html tags:**  
 **Unminified:**  
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.js"></script>
 ```  
 **Minified:**  
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.min.js"></script>
 ```  
   
 **And for downloads:**  
-[**Unminified - Has no compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.js)  
-[**Minified - Maximum compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0-pre1/request-tools/request-tools.min.js)  
+[**Unminified - Has no compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.js)  
+[**Minified - Maximum compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.min.js)  
   
 Usage
 =====  
