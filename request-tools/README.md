@@ -14,10 +14,6 @@ request-tools
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.min.js"></script>
 ```  
   
-**And for downloads:**  
-[**Unminified - Has no compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.js)  
-[**Minified - Maximum compression**](https://cdn.jsdelivr.net/gh/LegoMaster3650/useful-tools.js@1.0.0/request-tools/request-tools.min.js)  
-  
 Usage
 =====  
 ----------------------------------------------  
