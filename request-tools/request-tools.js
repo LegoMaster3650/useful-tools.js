@@ -36,11 +36,11 @@ function request(data, cb) {
 }
 request.get = function(target, headers, cb) {
   if (!target) console.error('No target specified')
-  if (!cb) console.error('No callback defined')
   if (headers.constructor == Function) {
     cb = headers
     headers = undefined
   }
+  if (!cb) console.error('No callback defined')
   var reqdat = {method: 'GET', target: target}
   if (headers) reqdat.headers = headers
   request(reqdat, cb)
